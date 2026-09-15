@@ -27,4 +27,4 @@ The query results were further used to create visualizations for presenting the 
 
 ### Visualization
 
-![Visualization 1](screenshots/visualization_1.png)
+![Visualization 1](screenshots/visualization.png)
